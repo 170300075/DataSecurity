@@ -1,0 +1,34 @@
+Nombre del challenge: I'm connected!
+Categoria: Network
+Descripcion: ¿Cómo se llama la siguiente técnica?:
+	ssh -L 8888:localhost:8888 android@192.168.111.3 -p 8022
+Puntos: 10
+Hints: -5
+	Hint: Permitimos usar enmascarar un puerto remoto a uno local.
+Creator: xXBlackMasterXx
+Answer: 
+Port/Forwarding
+Flag Format -> Word1/Word2 
+
+Nombre del challenge: La seguridad es primero
+Categoria: Cybersecurity
+Descripcion: Ademas de Facebook, ¿quien colaboro en el desarrollo del cifrado de extremo a extremo de Whatsapp?
+Puntos: 10
+Hints: -5
+	Hint: Puedes encontrar esta informacion en Xataka
+Creator: xXBlackMasterXx
+Answer: 
+Open/Whisper/Systems
+Flag Format -> Word1/Word2/Word3
+
+Nombre del challenge: The data for the data
+Categoria: Warmup
+Descripcion: Se dice que hasta los datos mismos tienen datos. Cual es el nombre de esa informacion. Aplica una tecnica para obtener esa informacion de esa de la siguiente imagen.
+
+Puntos: 10
+Hints: -5
+	Hint: description=Word1/Word2
+Creator: xXBlackMasterXx
+Answer:
+Metadatos/Lobo/Solitario
+Flag Format -> Name/Word1/Word2
